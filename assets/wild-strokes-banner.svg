@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Wild Strokes — Art, design and sound</title>
+<desc id="desc">A charcoal and lime studio banner with pixel art, interface, illustration and audio symbols.</desc>
+<rect width="1200" height="360" rx="20" fill="#111813"/>
+<path d="M790 0H1200V360H650Z" fill="#19251b"/>
+<g fill="none" stroke="#2b3b2e" stroke-width="1"><path d="M840 0V360M920 0V360M1000 0V360M1080 0V360M1160 0V360M760 0V360M680 0V360M600 0V360M0 60H1200M0 140H1200M0 220H1200M0 300H1200"/></g>
+<rect x="48" y="48" width="66" height="66" rx="14" fill="#c0f45b"/>
+<path d="M60 66L69 96L81 75L93 96L102 66" fill="none" stroke="#111813" stroke-width="6" stroke-linejoin="round"/>
+<text x="137" y="74" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700" letter-spacing="3" fill="#c0f45b">INDEPENDENT CREATIVE STUDIO</text>
+<text x="137" y="101" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#cad2c8">Pixel art · UI/UX · Illustration · Sound</text>
+<text x="48" y="203" font-family="Arial,Helvetica,sans-serif" font-size="80" font-weight="800" letter-spacing="-3" fill="#f4f6ec">WILD STROKES</text>
+<text x="51" y="248" font-family="Arial,Helvetica,sans-serif" font-size="25" fill="#cdd6c9">From first sketch to final frame.</text>
+<rect x="50" y="284" width="285" height="32" rx="16" fill="#263722"/>
+<text x="70" y="305" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" letter-spacing="2" fill="#c0f45b">ART / DESIGN / GAME AUDIO</text>
+<g transform="translate(887 43) rotate(8 113 64)">
+<rect width="226" height="128" rx="16" fill="#c0f45b"/>
+<rect x="21" y="21" width="50" height="50" rx="9" fill="#111813"/>
+<g fill="#c0f45b"><rect x="32" y="32" width="10" height="10"/><rect x="51" y="32" width="10" height="10"/><rect x="42" y="42" width="10" height="10"/><rect x="32" y="51" width="10" height="10"/><rect x="51" y="51" width="10" height="10"/></g>
+<rect x="90" y="27" width="108" height="7" rx="3" fill="#3c5624"/><rect x="90" y="46" width="76" height="7" rx="3" fill="#3c5624"/>
+<rect x="21" y="87" width="182" height="19" rx="5" fill="#111813"/>
+</g>
+<g transform="translate(818 188) rotate(-8 112 63)">
+<rect width="226" height="124" rx="16" fill="#eef1e1"/>
+<path d="M22 62H34M42 48V76M54 31V93M66 45V79M78 21V103M90 38V86M102 47V77M114 31V93M126 52V72M138 45V79M150 34V90M162 48V76M174 56V68M186 62H204" fill="none" stroke="#273724" stroke-width="6" stroke-linecap="round"/>
+</g>
+<g transform="translate(1071 222)"><circle cx="32" cy="32" r="32" fill="#ff8e70"/><path d="M18 46L22 31L39 14L50 25L33 42ZM22 31L33 42M39 14L50 25" fill="none" stroke="#111813" stroke-width="3" stroke-linejoin="round"/></g>
+</svg>
