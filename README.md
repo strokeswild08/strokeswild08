@@ -14,6 +14,11 @@
 
 I'm Owais, the artist behind **Wild Strokes**. I create character art, animated sprites, game environments, digital interfaces and illustrations, with sound design support for game projects. My work spans indie games, digital products, creators and commissioned art.
 
+## Play a game
+
+**[Mosslight: The Last Lantern — Play Demo →](https://strokeswild08.github.io/mosslight/)**  
+Explore a moss-covered ruin, relight its lanterns and face the Hollow Warden. A browser demo bringing pixel art, combat, interface design and game audio together. [View the source](https://github.com/strokeswild08/strokeswild08.github.io/tree/main/mosslight).
+
 ## Explore the portfolios
 
 | Portfolio | Explore |
