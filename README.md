@@ -20,6 +20,7 @@ I'm Owais, the artist and developer behind **Wild Strokes**. My work brings toge
 
 | Project | What it does | Explore |
 |:--|:--|:--|
+| **Ashen Crown: Last Stand** | Isometric tactical RPG with three heroes, distinct abilities, enemy AI and a commander / crystal battle | [Play](https://strokeswild08.github.io/ashen-crown/) · [Code](https://github.com/strokeswild08/strokeswild08.github.io/tree/main/ashen-crown) |
 | **Mosslight: The Last Lantern** | Pixel adventure with sword combat, lantern encounters and a boss fight | [Play](https://strokeswild08.github.io/mosslight/) · [Code](https://github.com/strokeswild08/strokeswild08.github.io/tree/main/mosslight) |
 | **Facet** | Low-poly 3D viewer with local GLB import, lighting, wireframe and PNG export | [Open](https://strokeswild08.github.io/low-poly-viewer/) · [Code](https://github.com/strokeswild08/strokeswild08.github.io/tree/main/low-poly-viewer) |
 | **Flipbook** | Sprite-sheet previewer with frame controls, onion skin and transparent PNG / GIF export | [Open](https://strokeswild08.github.io/sprite-preview/) · [Code](https://github.com/strokeswild08/strokeswild08.github.io/tree/main/sprite-preview) |
