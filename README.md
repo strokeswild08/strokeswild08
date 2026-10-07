@@ -19,6 +19,11 @@ I'm Owais, the artist behind **Wild Strokes**. I create character art, animated 
 **[Mosslight: The Last Lantern — Play Demo →](https://strokeswild08.github.io/mosslight/)**  
 Explore a moss-covered ruin, relight its lanterns and face the Hollow Warden. A browser demo bringing pixel art, combat, interface design and game audio together. [View the source](https://github.com/strokeswild08/strokeswild08.github.io/tree/main/mosslight).
 
+## JavaScript tools
+
+**[Facet — Low-poly workbench →](https://strokeswild08.github.io/low-poly-viewer/)**  
+Orbit two procedural 3D demos, open a local GLB model, inspect wireframes and save a PNG preview. [Read the code and guide](https://github.com/strokeswild08/strokeswild08.github.io/tree/main/low-poly-viewer).
+
 ## Explore the portfolios
 
 | Portfolio | Explore |
