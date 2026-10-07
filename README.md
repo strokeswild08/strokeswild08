@@ -26,7 +26,7 @@ I'm Owais, the artist and developer behind **Wild Strokes**. My work brings toge
 | **Flipbook** | Sprite-sheet previewer with frame controls, onion skin and transparent PNG / GIF export | [Open](https://strokeswild08.github.io/sprite-preview/) · [Code](https://github.com/strokeswild08/strokeswild08.github.io/tree/main/sprite-preview) |
 | **Fieldwork** | Tilemap studio with terrain / object layers, custom tiles, collision walk test and PNG / JSON export | [Open](https://strokeswild08.github.io/tilemap-editor/) · [Code](https://github.com/strokeswild08/strokeswild08.github.io/tree/main/tilemap-editor) |
 
-Each tool includes readable source, setup instructions and a Roman Urdu guide.
+Project pages include source code, setup instructions and usage guides.
 
 ## Explore the portfolios
 
