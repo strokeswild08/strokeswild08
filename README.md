@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/strokeswild08/strokeswild08/main/assets/wild-strokes-banner.svg" alt="Wild Strokes — art, design and sound" width="100%">
 </p>
 
-<p align="center"><strong>Freelance artist & designer · Game art · Digital interfaces · Visual storytelling · Game audio</strong></p>
+<p align="center"><strong>Game developer & visual artist · Pixel art · 2D / 3D · Game UI / UX · JavaScript tools</strong></p>
 
 <p align="center">
   <a href="mailto:strokeswild08@gmail.com">Discuss a project</a> &nbsp; / &nbsp;
@@ -12,17 +12,19 @@
   <a href="https://stately-shortbread-21d46a.netlify.app/">Sound</a>
 </p>
 
-I'm Owais, the artist behind **Wild Strokes**. I create character art, animated sprites, game environments, digital interfaces and illustrations, with sound design support for game projects. My work spans indie games, digital products, creators and commissioned art.
+I'm Owais, the artist and developer behind **Wild Strokes**. My work brings together game development, pixel art, 2D / 3D visuals, interface design and game audio. Explore live browser projects, practical JavaScript tools and the art portfolios below.
 
-## Play a game
+## Games & JavaScript tools
 
-**[Mosslight: The Last Lantern — Play Demo →](https://strokeswild08.github.io/mosslight/)**  
-Explore a moss-covered ruin, relight its lanterns and face the Hollow Warden. A browser demo bringing pixel art, combat, interface design and game audio together. [View the source](https://github.com/strokeswild08/strokeswild08.github.io/tree/main/mosslight).
+**[Explore all projects in one place →](https://strokeswild08.github.io/projects/)**
 
-## JavaScript tools
+| Project | What it does | Explore |
+|:--|:--|:--|
+| **Mosslight: The Last Lantern** | Pixel adventure with sword combat, lantern encounters and a boss fight | [Play](https://strokeswild08.github.io/mosslight/) · [Code](https://github.com/strokeswild08/strokeswild08.github.io/tree/main/mosslight) |
+| **Facet** | Low-poly 3D viewer with local GLB import, lighting, wireframe and PNG export | [Open](https://strokeswild08.github.io/low-poly-viewer/) · [Code](https://github.com/strokeswild08/strokeswild08.github.io/tree/main/low-poly-viewer) |
+| **Flipbook** | Sprite-sheet previewer with frame controls, onion skin and transparent PNG / GIF export | [Open](https://strokeswild08.github.io/sprite-preview/) · [Code](https://github.com/strokeswild08/strokeswild08.github.io/tree/main/sprite-preview) |
 
-**[Facet — Low-poly workbench →](https://strokeswild08.github.io/low-poly-viewer/)**  
-Orbit two procedural 3D demos, open a local GLB model, inspect wireframes and save a PNG preview. [Read the code and guide](https://github.com/strokeswild08/strokeswild08.github.io/tree/main/low-poly-viewer).
+Each tool includes readable source, setup instructions and a Roman Urdu guide.
 
 ## Explore the portfolios
 
@@ -56,6 +58,7 @@ Web, app and dashboard design with clear visual structure.<br>
 
 ## What I can help with
 
+- **Game development & tools:** browser games, interactive prototypes and JavaScript utilities.
 - **Game art:** characters, sprite sheets, animation, environments, tilesets, props and pixel effects.
 - **UI/UX & visual design:** game HUDs and menus, websites, apps, dashboards, branding and creator graphics.
 - **Illustration & comics:** character concepts, sequential pages, covers and visual development.
