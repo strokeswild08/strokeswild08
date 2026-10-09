@@ -20,6 +20,7 @@ I'm Owais, the artist and developer behind **Wild Strokes**. My work brings toge
 
 | Project | What it does | Explore |
 |:--|:--|:--|
+| **Studio Desk** | Client portal for projects, milestones, payment tracking and files; includes a Node + SQLite backend with real accounts | [Demo](https://strokeswild08.github.io/client-portal/) · [Code](https://github.com/strokeswild08/strokeswild08.github.io/tree/main/client-portal) |
 | **Signal Lab** | Game SFX studio with eight procedural presets, waveform preview, sound controls and WAV / JSON export | [Open](https://strokeswild08.github.io/signal-lab/) · [Code](https://github.com/strokeswild08/strokeswild08.github.io/tree/main/signal-lab) |
 | **Ashen Crown: Last Stand** | Isometric tactical RPG with three heroes, distinct abilities, enemy AI and a commander / crystal battle | [Play](https://strokeswild08.github.io/ashen-crown/) · [Code](https://github.com/strokeswild08/strokeswild08.github.io/tree/main/ashen-crown) |
 | **Mosslight: The Last Lantern** | Pixel adventure with sword combat, lantern encounters and a boss fight | [Play](https://strokeswild08.github.io/mosslight/) · [Code](https://github.com/strokeswild08/strokeswild08.github.io/tree/main/mosslight) |
@@ -27,7 +28,12 @@ I'm Owais, the artist and developer behind **Wild Strokes**. My work brings toge
 | **Flipbook** | Sprite-sheet previewer with frame controls, onion skin and transparent PNG / GIF export | [Open](https://strokeswild08.github.io/sprite-preview/) · [Code](https://github.com/strokeswild08/strokeswild08.github.io/tree/main/sprite-preview) |
 | **Fieldwork** | Tilemap studio with terrain / object layers, custom tiles, collision walk test and PNG / JSON export | [Open](https://strokeswild08.github.io/tilemap-editor/) · [Code](https://github.com/strokeswild08/strokeswild08.github.io/tree/main/tilemap-editor) |
 
-[![Signal Lab — browser game SFX studio](https://raw.githubusercontent.com/strokeswild08/strokeswild08.github.io/main/signal-lab/cover.svg)](https://strokeswild08.github.io/signal-lab/)
+<table>
+<tr>
+<td width="50%" valign="top"><a href="https://strokeswild08.github.io/client-portal/"><img src="https://raw.githubusercontent.com/strokeswild08/strokeswild08.github.io/main/client-portal/cover.svg" alt="Studio Desk — freelance client workspace" width="100%"></a><br><strong>Studio Desk / JavaScript + Node</strong><br>Projects, clients, milestones and files. Browser demo plus an authenticated SQLite backend.<br><a href="https://strokeswild08.github.io/client-portal/">Try the demo →</a></td>
+<td width="50%" valign="top"><a href="https://strokeswild08.github.io/signal-lab/"><img src="https://raw.githubusercontent.com/strokeswild08/strokeswild08.github.io/main/signal-lab/cover.svg" alt="Signal Lab — browser game SFX studio" width="100%"></a><br><strong>Signal Lab / JavaScript + Web Audio</strong><br>Shape procedural sound effects and export WAV files or reusable recipes.<br><a href="https://strokeswild08.github.io/signal-lab/">Make a sound →</a></td>
+</tr>
+</table>
 
 Project pages include source code, setup instructions and usage guides.
 
