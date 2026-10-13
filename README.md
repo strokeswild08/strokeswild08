@@ -20,6 +20,7 @@ I'm Owais, the artist and developer behind **Wild Strokes**. My work brings toge
 
 | Project | What it does | Explore |
 |:--|:--|:--|
+| **Fieldpack / Godot Inventory Kit** | Native Godot backpack/chest drag-and-drop, equipment stats, transactional crafting and validated saves | [Project](https://strokeswild08.github.io/godot-inventory-kit/) · [Source](https://github.com/strokeswild08/strokeswild08.github.io/tree/main/godot-inventory-kit) · [Download](https://strokeswild08.github.io/godot-inventory-kit/fieldpack-source.zip) |
 | **Nightshift / Godot Horror Kit** | Native Godot 4 station escape with patrol/chase/search AI, interactions, flashlight and validated checkpoints | [Project](https://strokeswild08.github.io/godot-horror-kit/) · [Source](https://github.com/strokeswild08/strokeswild08.github.io/tree/main/godot-horror-kit) · [Download](https://strokeswild08.github.io/godot-horror-kit/nightshift-source.zip) |
 | **Studio Desk** | Client portal for projects, milestones, payment tracking and files; includes a Node + SQLite backend with real accounts | [Demo](https://strokeswild08.github.io/client-portal/) · [Code](https://github.com/strokeswild08/strokeswild08.github.io/tree/main/client-portal) |
 | **Signal Lab** | Game SFX studio with eight procedural presets, waveform preview, sound controls and WAV / JSON export | [Open](https://strokeswild08.github.io/signal-lab/) · [Code](https://github.com/strokeswild08/strokeswild08.github.io/tree/main/signal-lab) |
