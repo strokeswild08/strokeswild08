@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/strokeswild08/strokeswild08/main/assets/wild-strokes-banner.svg" alt="Wild Strokes — art, design and sound" width="100%">
 </p>
 
-<p align="center"><strong>Game developer & visual artist · Pixel art · 2D / 3D · Game UI / UX · JavaScript tools</strong></p>
+<p align="center"><strong>Game developer & visual artist · Pixel art · 2D / 3D · Game UI / UX · Godot · JavaScript tools</strong></p>
 
 <p align="center">
   <a href="mailto:strokeswild08@gmail.com">Discuss a project</a> &nbsp; / &nbsp;
@@ -12,14 +12,15 @@
   <a href="https://stately-shortbread-21d46a.netlify.app/">Sound</a>
 </p>
 
-I'm Owais, the artist and developer behind **Wild Strokes**. My work brings together game development, pixel art, 2D / 3D visuals, interface design and game audio. Explore live browser projects, practical JavaScript tools and the art portfolios below.
+I'm Owais, the artist and developer behind **Wild Strokes**. My work brings together game development, pixel art, 2D / 3D visuals, interface design and game audio. Explore native Godot systems, live browser projects, practical JavaScript tools and the art portfolios below.
 
-## Games & JavaScript tools
+## Games & development tools
 
 **[Explore all projects in one place →](https://strokeswild08.github.io/projects/)**
 
 | Project | What it does | Explore |
 |:--|:--|:--|
+| **Nightshift / Godot Horror Kit** | Native Godot 4 station escape with patrol/chase/search AI, interactions, flashlight and validated checkpoints | [Project](https://strokeswild08.github.io/godot-horror-kit/) · [Source](https://github.com/strokeswild08/strokeswild08.github.io/tree/main/godot-horror-kit) · [Download](https://strokeswild08.github.io/godot-horror-kit/nightshift-source.zip) |
 | **Studio Desk** | Client portal for projects, milestones, payment tracking and files; includes a Node + SQLite backend with real accounts | [Demo](https://strokeswild08.github.io/client-portal/) · [Code](https://github.com/strokeswild08/strokeswild08.github.io/tree/main/client-portal) |
 | **Signal Lab** | Game SFX studio with eight procedural presets, waveform preview, sound controls and WAV / JSON export | [Open](https://strokeswild08.github.io/signal-lab/) · [Code](https://github.com/strokeswild08/strokeswild08.github.io/tree/main/signal-lab) |
 | **Ashen Crown: Last Stand** | Isometric tactical RPG with three heroes, distinct abilities, enemy AI and a commander / crystal battle | [Play](https://strokeswild08.github.io/ashen-crown/) · [Code](https://github.com/strokeswild08/strokeswild08.github.io/tree/main/ashen-crown) |
@@ -69,7 +70,7 @@ Web, app and dashboard design with clear visual structure.<br>
 
 ## What I can help with
 
-- **Game development & tools:** browser games, interactive prototypes and JavaScript utilities.
+- **Game development & tools:** native Godot gameplay systems, browser games, interactive prototypes and JavaScript utilities.
 - **Game art:** characters, sprite sheets, animation, environments, tilesets, props and pixel effects.
 - **UI/UX & visual design:** game HUDs and menus, websites, apps, dashboards, branding and creator graphics.
 - **Illustration & comics:** character concepts, sequential pages, covers and visual development.
