@@ -21,6 +21,7 @@ I'm Owais, the artist and developer behind **Wild Strokes**. I build game system
 
 | Project | What it does | Explore |
 |:--|:--|:--|
+| **Ability Forge / Unreal C++ source** | Fireball, lightning, swept dash, cooldown HUD, material impacts and Niagara slots; portable policies tested, Unreal engine validation pending | [Project](https://strokeswild08.github.io/unreal-ability-forge/) · [Source](https://github.com/strokeswild08/strokeswild08.github.io/tree/main/unreal-ability-forge) · [Download](https://strokeswild08.github.io/unreal-ability-forge/ability-forge-source.zip) |
 | **Watchtower / Godot AI Arena** | Native top-down sandbox with melee, ranged and shield enemies, A* navigation, target memory and debug rendering | [Project](https://strokeswild08.github.io/godot-ai-arena/) · [Source](https://github.com/strokeswild08/strokeswild08.github.io/tree/main/godot-ai-arena) · [Download](https://strokeswild08.github.io/godot-ai-arena/watchtower-source.zip) |
 | **VOID TEMPLE** | Browser fighting prototype with fixed-step combat, input buffering, parries, training mode and gamepad support | [Play](https://strokeswild08.github.io/void-temple/) · [Code & controls](https://github.com/strokeswild08/strokeswild08.github.io/tree/main/void-temple) |
 | **Route Lab** | Interactive A*, Dijkstra and BFS navigation with weighted terrain, map editing and route visualization | [Demo](https://strokeswild08.github.io/pathfinding-lab/) · [Code & tests](https://github.com/strokeswild08/strokeswild08.github.io/tree/main/pathfinding-lab) |
